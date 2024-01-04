@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asish-sutar" alt="asish-sutar" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Micro-services and Angular Js**
+- 🌱 I’m currently learning **Spring Boot, Micro-services and React Js**
 
-- 💬 Ask me about **Core Java,Advanced java,Spring boot,HTML,CSS,Angular,DSA**
+- 💬 Ask me about **Core Java,Advanced java,Spring boot,HTML,CSS,React JS,DSA**
 
 - 📫 How to reach me **asishsutar2001@gmail.com**
 
